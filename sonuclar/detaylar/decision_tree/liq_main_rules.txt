@@ -1,0 +1,6 @@
+ class    A   B   C                                                                                                                                                      cover
+     A [.59 .36 .05] when synthesis is                                                       FAPO or HT or MPC or PC or SG & A is  Ba or K or La or Ni                     15%
+     A [.76 .18 .05] when synthesis is                                                                     APC or ES or SS                                                 27%
+     B [.18 .53 .29] when synthesis is COP or flux or MS or PTP or solvo-combustion or solvothermal or sonochemistry or UT                             & band_gap <  3     12%
+     B [.07 .72 .21] when synthesis is                                                       FAPO or HT or MPC or PC or SG & A is Bi or Ca or Na or Sr                     20%
+     C [.00 .06 .94] when synthesis is COP or flux or MS or PTP or solvo-combustion or solvothermal or sonochemistry or UT                             & band_gap >= 3     25%
